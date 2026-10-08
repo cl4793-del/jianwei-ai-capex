@@ -1,5 +1,4 @@
-'use strict';
-const exampleProject = {
+{
   "version": 1,
   "title": "AI 泡沫与 CapEx",
   "question": "这一轮 AI 发展，是不是泡沫？",
@@ -380,4 +379,4 @@ const exampleProject = {
       "date": ""
     }
   ]
-};
+}
